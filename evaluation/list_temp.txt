@@ -1,0 +1,24 @@
+ badWeather blizzard
+ badWeather skating
+ badWeather snowFall
+ baseline office
+ baseline pedestrians
+ baseline PETS2006
+ cameraJitter badminton
+ cameraJitter boulevard
+ cameraJitter sidewalk
+ cameraJitter traffic
+ dynamicBackground boats
+ dynamicBackground canoe
+ dynamicBackground fall
+ dynamicBackground fountain01
+ dynamicBackground fountain02
+ dynamicBackground overpass
+ intermittentObjectMotion abandonedBox
+ intermittentObjectMotion parking
+ intermittentObjectMotion sofa
+ intermittentObjectMotion streetLight
+ intermittentObjectMotion tramstop
+ intermittentObjectMotion winterDriveway
+ lowFramerate port_0_17fps
+    
